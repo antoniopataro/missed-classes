@@ -1,3 +1,5 @@
+https://user-images.githubusercontent.com/87823281/180581322-881a7804-6641-4ba4-a9d7-3f4c95bbd58d.mp4
+
 # Missed Classes 📚
 
 This is an app meant for you to count how many classes you've missed so far on your current academic period. Also my first React Native project.
