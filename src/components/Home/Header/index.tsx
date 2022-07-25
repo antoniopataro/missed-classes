@@ -10,7 +10,7 @@ function Header() {
         <Image source={profilePicturePlaceholder} width={50} height={50} />
         <TextContainer>
           <H4>Bem vindo,</H4>
-          <H2>Antônio Pataro</H2>
+          <H2>Estudante</H2>
         </TextContainer>
       </LeftContainer>
       {/* <Settings>
