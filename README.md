@@ -18,9 +18,9 @@ Overall, found it easy to deal with `React Native`, since I'm already familiar w
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="React Native" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/180788768-172f5d94-089b-48be-8f50-6173be326ed0.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Styled Components" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/180796443-4c332fa5-94c7-4aa2-a9b3-775d16e62f62.svg">
-    <img align="center" alt="Async Storage" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/180796782-4db0d780-3fc9-43a5-9210-159f21a15e4c.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+  <img align="center" alt="React Native" title="React Native" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/180788768-172f5d94-089b-48be-8f50-6173be326ed0.svg">
+  <img align="center" alt="Typescript" title="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Styled Components" title="Styled Components" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/180796443-4c332fa5-94c7-4aa2-a9b3-775d16e62f62.svg">
+    <img align="center" alt="Async Storage" title="Async Storage" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/180796782-4db0d780-3fc9-43a5-9210-159f21a15e4c.svg">
+  <img align="center" alt="Figma" title="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
 </div>
