@@ -103,7 +103,7 @@ function ClassesProvider({ children }: ClassesProviderProps) {
         return {
           ...item,
           totalClasses: newTotalClasses,
-          presence: Math.floor(((item.totalClasses - item.missedClasses) * 100) / item.totalClasses),
+          presence: Math.floor(((newTotalClasses - item.missedClasses) * 100) / item.totalClasses),
         };
       }
       return item;
